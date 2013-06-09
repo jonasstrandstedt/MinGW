@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-045-55fe-7ba3e9">
+    <release tarname="libarchive-2.8.3-1-msys-1.0.13-dll-2.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-archive-2.dll" />
+    </manifest>
+</package>

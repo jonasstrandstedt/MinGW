@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-039-391c-267b65">
+    <release tarname="autoconf2.5-2.68-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/autoconf-2.68" />
+        <file path="bin/autoheader-2.68" />
+        <file path="bin/autom4te-2.68" />
+        <file path="bin/autoreconf-2.68" />
+        <file path="bin/autoscan-2.68" />
+        <file path="bin/autoupdate-2.68" />
+        <file path="bin/ifnames-2.68" />
+        <dir path="share/autoconf" />
+        <dir path="share/autoconf/autoconf" />
+        <file path="share/autoconf/autoconf/autoconf.m4" />
+        <file path="share/autoconf/autoconf/autoconf.m4f" />
+        <file path="share/autoconf/autoconf/autoheader.m4" />
+        <file path="share/autoconf/autoconf/autoscan.m4" />
+        <file path="share/autoconf/autoconf/autotest.m4" />
+        <file path="share/autoconf/autoconf/autoupdate.m4" />
+        <file path="share/autoconf/autoconf/c.m4" />
+        <file path="share/autoconf/autoconf/erlang.m4" />
+        <file path="share/autoconf/autoconf/fortran.m4" />
+        <file path="share/autoconf/autoconf/functions.m4" />
+        <file path="share/autoconf/autoconf/general.m4" />
+        <file path="share/autoconf/autoconf/headers.m4" />
+        <file path="share/autoconf/autoconf/lang.m4" />
+        <file path="share/autoconf/autoconf/libs.m4" />
+        <file path="share/autoconf/autoconf/oldnames.m4" />
+        <file path="share/autoconf/autoconf/programs.m4" />
+        <file path="share/autoconf/autoconf/specific.m4" />
+        <file path="share/autoconf/autoconf/status.m4" />
+        <file path="share/autoconf/autoconf/types.m4" />
+        <dir path="share/autoconf/Autom4te" />
+        <file path="share/autoconf/Autom4te/C4che.pm" />
+        <file path="share/autoconf/Autom4te/ChannelDefs.pm" />
+        <file path="share/autoconf/Autom4te/Channels.pm" />
+        <file path="share/autoconf/Autom4te/Configure_ac.pm" />
+        <file path="share/autoconf/Autom4te/FileUtils.pm" />
+        <file path="share/autoconf/Autom4te/General.pm" />
+        <file path="share/autoconf/Autom4te/Request.pm" />
+        <file path="share/autoconf/Autom4te/Struct.pm" />
+        <file path="share/autoconf/Autom4te/XFile.pm" />
+        <file path="share/autoconf/autom4te.cfg" />
+        <dir path="share/autoconf/autoscan" />
+        <file path="share/autoconf/autoscan/autoscan.list" />
+        <dir path="share/autoconf/autotest" />
+        <file path="share/autoconf/autotest/autotest.m4" />
+        <file path="share/autoconf/autotest/autotest.m4f" />
+        <file path="share/autoconf/autotest/general.m4" />
+        <file path="share/autoconf/autotest/specific.m4" />
+        <file path="share/autoconf/INSTALL" />
+        <dir path="share/autoconf/m4sugar" />
+        <file path="share/autoconf/m4sugar/foreach.m4" />
+        <file path="share/autoconf/m4sugar/m4sh.m4" />
+        <file path="share/autoconf/m4sugar/m4sh.m4f" />
+        <file path="share/autoconf/m4sugar/m4sugar.m4" />
+        <file path="share/autoconf/m4sugar/m4sugar.m4f" />
+        <file path="share/autoconf/m4sugar/version.m4" />
+    </manifest>
+</package>

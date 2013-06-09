@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-042-9c22-74fc60">
+    <release tarname="libgmp-5.0.1-1-msys-1.0.13-dll-10.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-gmp-10.dll" />
+    </manifest>
+</package>

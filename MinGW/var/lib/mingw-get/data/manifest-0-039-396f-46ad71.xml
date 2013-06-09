@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-039-396f-46ad71">
+    <release tarname="autoconf2.1-2.13-4-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/autoconf-2.13" />
+        <file path="bin/autoheader-2.13" />
+        <file path="bin/autoreconf-2.13" />
+        <file path="bin/autoscan-2.13" />
+        <file path="bin/autoupdate-2.13" />
+        <file path="bin/ifnames-2.13" />
+        <dir path="share/autoconf" />
+        <file path="share/autoconf/acconfig.h" />
+        <file path="share/autoconf/acfunctions" />
+        <file path="share/autoconf/acgeneral.m4" />
+        <file path="share/autoconf/acheaders" />
+        <file path="share/autoconf/acidentifiers" />
+        <file path="share/autoconf/acmakevars" />
+        <file path="share/autoconf/acoldnames.m4" />
+        <file path="share/autoconf/acprograms" />
+        <file path="share/autoconf/acspecific.m4" />
+        <file path="share/autoconf/autoconf.m4" />
+        <file path="share/autoconf/autoconf.m4f" />
+        <file path="share/autoconf/autoheader.m4" />
+        <file path="share/autoconf/autoheader.m4f" />
+    </manifest>
+</package>

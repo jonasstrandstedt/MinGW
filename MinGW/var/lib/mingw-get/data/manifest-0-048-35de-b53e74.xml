@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-048-35de-b53e74">
+    <release tarname="make-3.82.90-2-mingw32-cvs-20120902-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/mingw32-make.exe" />
+    </manifest>
+</package>

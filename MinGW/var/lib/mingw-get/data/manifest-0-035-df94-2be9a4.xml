@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-035-df94-2be9a4">
+    <release tarname="mingwrt-3.20-2-mingw32-dll.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="bin/mingwm10.dll" />
+    </manifest>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-f594-8f9889">
+    <release tarname="cvs-1.12.13-2-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/cvs.exe" />
+        <file path="bin/cvsbug" />
+        <file path="bin/rcs2log" />
+        <dir path="share/cvs" />
+        <dir path="share/cvs/contrib" />
+        <file path="share/cvs/contrib/clmerge" />
+        <file path="share/cvs/contrib/cln_hist" />
+        <file path="share/cvs/contrib/commit_prep" />
+        <file path="share/cvs/contrib/cvs2vendor" />
+        <file path="share/cvs/contrib/cvs_acls" />
+        <file path="share/cvs/contrib/debug_check_log" />
+        <file path="share/cvs/contrib/intro.doc" />
+        <file path="share/cvs/contrib/log" />
+        <file path="share/cvs/contrib/log_accum" />
+        <file path="share/cvs/contrib/mfpipe" />
+        <file path="share/cvs/contrib/newcvsroot" />
+        <file path="share/cvs/contrib/pvcs2rcs" />
+        <file path="share/cvs/contrib/rcs-5.7-commitid.patch" />
+        <file path="share/cvs/contrib/rcs-to-cvs" />
+        <file path="share/cvs/contrib/rcs2log" />
+        <file path="share/cvs/contrib/rcslock" />
+        <file path="share/cvs/contrib/README" />
+        <file path="share/cvs/contrib/sandbox_status" />
+        <file path="share/cvs/contrib/sccs2rcs" />
+        <file path="share/cvs/contrib/validate_repo" />
+    </manifest>
+</package>

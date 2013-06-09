@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-044-a0a7-fa3a2f">
+    <release tarname="libminires-1.02_1-2-msys-1.0.13-dll.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-minires.dll" />
+    </manifest>
+</package>

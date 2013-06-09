@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-054-2977-893330">
+    <release tarname="pthreads-w32-2.9.0-mingw32-pre-20110507-2-dev.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="include" />
+        <file path="include/pthread.h" />
+        <file path="include/sched.h" />
+        <file path="include/semaphore.h" />
+        <dir path="lib" />
+        <file path="lib/libpthread.a" />
+        <file path="lib/libpthread.dll.a" />
+        <file path="lib/libpthreadGC2.dll.a" />
+        <file path="lib/libpthreadGCE2.dll.a" />
+        <file path="lib/libquserex.dll.a" />
+        <file path="bin/quserex-test.exe" />
+    </manifest>
+</package>

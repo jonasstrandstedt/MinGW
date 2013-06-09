@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-030-b990-619b54">
+    <release tarname="gdb-7.5-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/gdb.exe" />
+        <file path="bin/gdbserver.exe" />
+        <dir path="include" />
+        <dir path="include/gdb" />
+        <file path="include/gdb/jit-reader.h" />
+        <dir path="share/gdb/syscalls" />
+        <file path="share/gdb/syscalls/amd64-linux.xml" />
+        <file path="share/gdb/syscalls/gdb-syscalls.dtd" />
+        <file path="share/gdb/syscalls/i386-linux.xml" />
+        <file path="share/gdb/syscalls/mips-n32-linux.xml" />
+        <file path="share/gdb/syscalls/mips-n64-linux.xml" />
+        <file path="share/gdb/syscalls/mips-o32-linux.xml" />
+        <file path="share/gdb/syscalls/ppc-linux.xml" />
+        <file path="share/gdb/syscalls/ppc64-linux.xml" />
+        <file path="share/gdb/syscalls/sparc-linux.xml" />
+        <file path="share/gdb/syscalls/sparc64-linux.xml" />
+    </manifest>
+</package>

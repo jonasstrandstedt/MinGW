@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-9843-dd500a">
+    <release tarname="guile-1.8.7-2-msys-1.0.15-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/guile.exe" />
+        <file path="bin/guile-tools" />
+        <file path="bin/guile-snarf" />
+    </manifest>
+</package>

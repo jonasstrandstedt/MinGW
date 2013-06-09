@@ -1,0 +1,217 @@
+mingw32 gcc
+========================================================================
+GCC is the GNU Compiler Collection, a fairly portable optimizing
+compiler.
+
+This MinGW port generates 32-bit code for Windows, and should run on any
+32- or 64-bit Windows operating system.
+
+No local patches were used.
+
+Local customizations were limited to:
+* Specific command-line options for configure and make,
+* moving a few files after "make install",
+* replacing redundant executables by a wrapper.
+For details, see the build script.
+
+Binary incompatibility notice!
+------------------------------
+
+The C and C++ ABI changed in GCC 4.7.0, which means in general you can't
+link together binaries compiled with this version of the compiler and
+with versions before GCC 4.7.0. In particular:
+
+* The option -mms-bitfields is enabled by default, which means the bitfield layout
+follows the convention of the Microsoft compiler.
+
+* C++ class-member functions now follow the __thiscall calling convention.
+
+* The compiler now assumes that the caller pops the stack for the
+implicit arguments pointing to an aggregate return value. This affects
+functions returning structs by value, like the complex math type.
+
+New features:
+-------------
+
+See http://gcc.gnu.org/gcc-4.7/changes.html
+
+General Notes:
+--------------
+
+* Unless the -fno-keep-inline-dllexport compiler flag is given, inline
+  functions decorated with __declspec(dllexport) are always generated
+  and included in object files. This also applies to methods defined in
+  classes decorated with __declspec(dllexport).
+
+  This may cause a general increase in object size, since many copies of
+  dllexport'd inline function and methods end up in object files.
+
+  To avoid this, do:
+  
+  1) Compile all sources with -fno-keep-inline-dllexport.
+  
+  2) Compile a separate dummy source file, that includes all headers, with
+  -fkeep-inline-dllexport.
+
+  This will generate all dllexported inline methods
+  and functions, just once. The resulting DLL size should not be affected,
+  but the object size and the link time should be reduced.
+
+* Shared libgcc: If all modules are linked with -shared-libgcc,
+  exceptions can be thrown across DLL boundaries.  Note that this is
+  the default for all languages other than C. To disable this, use
+  -static-libgcc.
+
+* Shared libstdc++: By default, C++ modules are linked with a DLL version
+  of libstdc++. To use the static version, use the -static-libstdc++ flag.
+  Note: When building and using DLLs, it is best in general not to use
+  static libraries, to avoid the issue of having multiple copies of shared
+  data. This applies to static libstdc++ as well.
+
+* Translations into your language! See share\locale for a list of
+  codes.  Unpack the translation archive in c:\MinGW and set the LANG
+  environment variable to the code of your preferred language.
+
+
+Known Issues:
+-------------
+
+* The Java language is absent, pending resolution of build issues.
+  The last mingw.org release offering Java was 4.4.0.
+
+* The translation archive, when used, must be unpacked in c:\MinGW.
+
+* The path "\mingw\include" on the current drive is always searched for
+  header files, regardless of where the compiler is installed. Likewise,
+  the path "\mingw\lib" is always searched for libraries. So, if you want
+  to keep multiple installations separated, better not to use
+  "\mingw" on any drive.
+
+* PATH must be set to the location of the gcc.exe binary. Specifying the
+  full path on the command line doesn't work currently.
+
+========================================================================
+
+Package Description:
+ 
+  C Language (required)
+    gcc-core-4.7.2-1-mingw32-bin.tar.lzma
+
+  C++ Language
+    gcc-c++-4.7.2-1-mingw32-bin.tar.lzma
+
+  Ada Language
+    gcc-ada-4.7.2-1-mingw32-bin.tar.lzma
+
+  Fortran Language
+    gcc-fortran-4.7.2-1-mingw32-bin.tar.lzma
+
+  Objective C/C++ Language
+    gcc-objc-4.7.2-1-mingw32-bin.tar.lzma
+
+  Shared C Runtime
+    libgcc-4.7.2-1-mingw32-dll-1.tar.lzma
+
+  Shared C++ Runtime
+    libstdc++-4.7.2-1-mingw32-dll-6.tar.lzma
+
+  Shared Ada Runtime
+    libgnat-4.7.2-1-mingw32-dll-4_7.tar.lzma
+
+  Shared Fortran Runtime 
+    libgfortran-4.7.2-1-mingw32-dll-3.tar.lzma
+
+  Shared Objective C/C++ Runtime
+    libobjc-4.7.2-1-mingw32-dll-4.tar.lzma
+
+  Shared library for OpenMP support
+    libgomp-4.7.2-1-mingw32-dll-1.tar.lzma
+
+  Shared library for stack protection support	
+    libssp-4.7.2-1-mingw32-dll-0.tar.lzma
+
+  Shared library for quad-precision math
+    libquadmath-4.7.2-1-mingw32-dll-0.tar.lzma
+
+  GCC Documentation
+    gcc-4.7.2-1-mingw32-doc.tar.lzma
+
+  Translations
+    gcc-4.7.2-1-mingw32-lang.tar.lzma
+
+  License Information
+    gcc-4.7.2-1-mingw32-lic.tar.lzma
+
+========================================================================
+
+Canonical homepage:
+  http://gcc.gnu.org/
+
+Canonical download:
+  ftp://ftp.gnu.org/gnu/gcc/
+  
+License:
+  GPLv3+, LGPLv3+, GPLv3+ plus runtime exception
+
+Languages:
+  Ada/C/C++/Fortran/Objective-C
+
+========================================================================
+
+Build instructions:
+
+1) Unpack gcc-4.7.2-1-mingw32-src.tar.lzma
+2) Install the build requirements.
+2.1) If you have mingw-get in PATH, you can use as a shorcut:
+        ./pkgbuild -e build_dep
+2.2) MinGW should be installed in c:/mingw.
+2.3) In the MSYS build shell, you should issue:
+        mount /mingw /mingw
+3) In the MSYS build shell, run <path-to-source>/pkgbuild
+
+See <path-to-source>/pkgbuild -h for further options.
+
+========================================================================
+
+---------- gcc-4.7.2-1 ----------- 2012 Nov 5 ------------
+* New upstream release.
+
+---------- gcc-4.7.0-1 ----------- 2012 Jun 07 -----------
+* New upstream release.
+* Require C++ during build (it depends on a working C++ preprocessor).
+* Do not unpack the source every time, keep an existing source directory.
+* Avoid distributing a copy of the C++ headers in the core package.
+* Do not build with the C++ compiler, it breaks the Ada build.
+
+---------- gcc-4.6.2-1 ----------- 2011 Dec 21 -----------
+* New upstream release.
+* Re-enable Ada.
+
+---------- gcc-4.6.1-2 ----------- 2011 Sep 15 -----------
+* Re-enable LTO.
+
+---------- gcc-4.6.1-1 ----------- 2011 Sep 14 -----------
+* New upstream release.
+* Remove Ada, pending resolution of build issues.
+* Do not ship .la files.
+* Add build-time option to download source.
+* Source is unpacked in a package-specific directory.
+
+---------- gcc-4.5.2-1 ----------- 2011 Jan 12 -----------
+* New upstream release.
+* Build script can invoke mingw-get for installing the build requirements. 
+* Warn about using static libstdc++ with DLLs.
+* No need to move libobjc-2.dll to /bin anymore (fixed upstream).
+* Fix missing symbols in the Objective C run-time library.
+* Update build instructions.
+
+---------- gcc-4.5.0-1 ----------- 2010 Apr 19 -----------
+* New upstream release.
+* Warn about increase in object size due to dllexported inline functions.
+* libobjc does not need -no-undefined anymore (fixed upstream).
+
+---------- gcc-4.5.0_20100311-2 -- 2010 Mar 18 -----------
+* Fixed a missing include path.
+
+---------- gcc-4.5.0_20100311-1 -- 2010 Mar 13 -----------
+* New snapshot.

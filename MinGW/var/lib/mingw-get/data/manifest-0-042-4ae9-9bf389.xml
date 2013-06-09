@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-042-4ae9-9bf389">
+    <release tarname="libgdbm-1.8.3-3-msys-1.0.13-dll-3.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-gdbm-3.dll" />
+        <file path="bin/msys-gdbm_compat-3.dll" />
+    </manifest>
+</package>

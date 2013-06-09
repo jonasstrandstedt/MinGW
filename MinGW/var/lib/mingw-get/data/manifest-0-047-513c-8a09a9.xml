@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-047-513c-8a09a9">
+    <release tarname="libopenssl-1.0.0-1-msys-1.0.13-dll-100.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-crypto-1.0.0.dll" />
+        <file path="bin/msys-ssl-1.0.0.dll" />
+        <dir path="lib/openssl/engines-1.0.0" />
+        <file path="lib/openssl/engines-1.0.0/lib4758cca.so" />
+        <file path="lib/openssl/engines-1.0.0/libaep.so" />
+        <file path="lib/openssl/engines-1.0.0/libatalla.so" />
+        <file path="lib/openssl/engines-1.0.0/libcapi.so" />
+        <file path="lib/openssl/engines-1.0.0/libchil.so" />
+        <file path="lib/openssl/engines-1.0.0/libcswift.so" />
+        <file path="lib/openssl/engines-1.0.0/libgmp.so" />
+        <file path="lib/openssl/engines-1.0.0/libgost.so" />
+        <file path="lib/openssl/engines-1.0.0/libnuron.so" />
+        <file path="lib/openssl/engines-1.0.0/libpadlock.so" />
+        <file path="lib/openssl/engines-1.0.0/libsureware.so" />
+        <file path="lib/openssl/engines-1.0.0/libubsec.so" />
+    </manifest>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-040-bd6c-0f83a4">
+    <release tarname="openssl-1.0.0-1-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="var/ssl" />
+        <dir path="var/ssl/certs" />
+        <dir path="var/ssl/certs/demo" />
+        <file path="var/ssl/certs/demo/ca-cert.pem" />
+        <file path="var/ssl/certs/demo/dsa-ca.pem" />
+        <file path="var/ssl/certs/demo/dsa-pca.pem" />
+        <file path="var/ssl/certs/demo/pca-cert.pem" />
+        <dir path="var/ssl/certs/expired" />
+        <file path="var/ssl/certs/expired/ICE.crl" />
+        <file path="var/ssl/certs/make-dummy-cert" />
+        <file path="var/ssl/certs/Makefile" />
+        <file path="var/ssl/certs/README.RootCerts" />
+        <dir path="var/ssl/misc" />
+        <file path="var/ssl/misc/CA" />
+        <file path="var/ssl/misc/CA.pl" />
+        <file path="var/ssl/misc/c_hash" />
+        <file path="var/ssl/misc/c_info" />
+        <file path="var/ssl/misc/c_issuer" />
+        <file path="var/ssl/misc/c_name" />
+        <file path="var/ssl/misc/tsget" />
+        <file path="var/ssl/openssl.cnf" />
+        <dir path="var/ssl/private" />
+        <dir path="var/ssl/rootcerts" />
+        <dir path="bin" />
+        <file path="bin/c_rehash" />
+        <file path="bin/openssl.exe" />
+    </manifest>
+</package>

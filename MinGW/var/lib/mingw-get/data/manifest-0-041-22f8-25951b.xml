@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-041-22f8-25951b">
+    <release tarname="autogen-5.10.1-1-msys-1.0.15-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/autogen.exe" />
+        <file path="bin/columns.exe" />
+        <file path="bin/getdefs.exe" />
+        <file path="bin/xml2ag.exe" />
+        <dir path="share/autogen" />
+        <file path="share/autogen/aginfo.tpl" />
+        <file path="share/autogen/aginfo3.tpl" />
+        <file path="share/autogen/agman-lib.tpl" />
+        <file path="share/autogen/agman1.tpl" />
+        <file path="share/autogen/agman3.tpl" />
+        <file path="share/autogen/autoopts.m4" />
+        <file path="share/autogen/confmacs.tpl" />
+        <file path="share/autogen/conftest.tpl" />
+        <file path="share/autogen/fsm-macro.tpl" />
+        <file path="share/autogen/fsm-trans.tpl" />
+        <file path="share/autogen/fsm.tpl" />
+        <file path="share/autogen/getopt.tpl" />
+        <file path="share/autogen/libopts-33.2.8.tar.gz" />
+        <file path="share/autogen/optcode.tpl" />
+        <file path="share/autogen/opthead.tpl" />
+        <file path="share/autogen/options.tpl" />
+        <file path="share/autogen/optlib.tpl" />
+        <file path="share/autogen/optmain.tpl" />
+        <file path="share/autogen/rc-sample.tpl" />
+        <file path="share/autogen/stdoptions.def" />
+        <file path="share/autogen/usage.tpl" />
+    </manifest>
+</package>

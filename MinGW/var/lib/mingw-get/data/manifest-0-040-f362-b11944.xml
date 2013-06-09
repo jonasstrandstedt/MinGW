@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-040-f362-b11944">
+    <release tarname="diffstat-1.54-1-msys-1.0.17-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/diffstat.exe" />
+    </manifest>
+</package>

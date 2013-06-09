@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-034-fb59-40dd0f">
+    <release tarname="libltdl-2.4-1-mingw32-dev.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="lib" />
+        <file path="lib/libltdl.a" />
+        <file path="lib/libltdl.dll.a" />
+        <file path="lib/libltdl.la" />
+        <dir path="include" />
+        <dir path="include/libltdl" />
+        <file path="include/libltdl/lt_dlloader.h" />
+        <file path="include/libltdl/lt_error.h" />
+        <file path="include/libltdl/lt_system.h" />
+        <file path="include/ltdl.h" />
+    </manifest>
+</package>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-041-1813-d17935">
+    <release tarname="coreutils-5.97-3-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/basename.exe" />
+        <file path="bin/cat.exe" />
+        <file path="bin/chmod.exe" />
+        <file path="bin/comm.exe" />
+        <file path="bin/cp.exe" />
+        <file path="bin/cut.exe" />
+        <file path="bin/date.exe" />
+        <file path="bin/dirname.exe" />
+        <file path="bin/echo.exe" />
+        <file path="bin/env.exe" />
+        <file path="bin/expr.exe" />
+        <file path="bin/false.exe" />
+        <file path="bin/fold.exe" />
+        <file path="bin/head.exe" />
+        <file path="bin/id.exe" />
+        <file path="bin/install.exe" />
+        <file path="bin/install.exe.manifest" />
+        <file path="bin/join.exe" />
+        <file path="bin/ln.exe" />
+        <file path="bin/ls.exe" />
+        <file path="bin/md5sum.exe" />
+        <file path="bin/mkdir.exe" />
+        <file path="bin/mv.exe" />
+        <file path="bin/od.exe" />
+        <file path="bin/paste.exe" />
+        <file path="bin/printf.exe" />
+        <file path="bin/pwd.exe" />
+        <file path="bin/rm.exe" />
+        <file path="bin/rmdir.exe" />
+        <file path="bin/sleep.exe" />
+        <file path="bin/sort.exe" />
+        <file path="bin/split.exe" />
+        <file path="bin/stty.exe" />
+        <file path="bin/tail.exe" />
+        <file path="bin/tee.exe" />
+        <file path="bin/touch.exe" />
+        <file path="bin/tr.exe" />
+        <file path="bin/true.exe" />
+        <file path="bin/uname.exe" />
+        <file path="bin/uniq.exe" />
+        <file path="bin/wc.exe" />
+    </manifest>
+</package>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-042-f8fc-01a699">
+    <release tarname="msysCORE-1.0.18-1-msys-1.0.18-ext.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/cls" />
+        <file path="bin/clsb" />
+        <file path="bin/cmd" />
+        <file path="bin/ftp" />
+        <file path="bin/lnkcnv" />
+        <file path="bin/mount" />
+        <file path="bin/msysinfo" />
+        <file path="bin/start" />
+        <file path="bin/umount" />
+        <file path="bin/which" />
+        <dir path="postinstall" />
+        <file path="postinstall/pi.bat" />
+        <file path="postinstall/pi.sh" />
+        <file path="msys.bat" />
+    </manifest>
+</package>

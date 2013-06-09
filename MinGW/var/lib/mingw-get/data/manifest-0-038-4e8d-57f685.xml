@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-4e8d-57f685">
+    <release tarname="rsync-3.0.8-1-msys-1.0.17-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/rsync.exe" />
+    </manifest>
+</package>

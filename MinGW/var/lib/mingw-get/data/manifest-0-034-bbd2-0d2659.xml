@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-034-bbd2-0d2659">
+    <release tarname="libtool-2.4-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/libtool" />
+        <file path="bin/libtoolize" />
+        <dir path="share/libtool" />
+        <dir path="share/libtool/config" />
+        <file path="share/libtool/config/compile" />
+        <file path="share/libtool/config/config.guess" />
+        <file path="share/libtool/config/config.sub" />
+        <file path="share/libtool/config/depcomp" />
+        <file path="share/libtool/config/install-sh" />
+        <file path="share/libtool/config/ltmain.sh" />
+        <file path="share/libtool/config/missing" />
+        <dir path="share/libtool/libltdl" />
+        <file path="share/libtool/libltdl/aclocal.m4" />
+        <file path="share/libtool/libltdl/argz.c" />
+        <file path="share/libtool/libltdl/argz_.h" />
+        <file path="share/libtool/libltdl/config-h.in" />
+        <file path="share/libtool/libltdl/configure" />
+        <file path="share/libtool/libltdl/configure.ac" />
+        <file path="share/libtool/libltdl/COPYING.LIB" />
+        <dir path="share/libtool/libltdl/libltdl" />
+        <file path="share/libtool/libltdl/libltdl/lt_dlloader.h" />
+        <file path="share/libtool/libltdl/libltdl/lt_error.h" />
+        <file path="share/libtool/libltdl/libltdl/lt_system.h" />
+        <file path="share/libtool/libltdl/libltdl/lt__alloc.h" />
+        <file path="share/libtool/libltdl/libltdl/lt__dirent.h" />
+        <file path="share/libtool/libltdl/libltdl/lt__glibc.h" />
+        <file path="share/libtool/libltdl/libltdl/lt__private.h" />
+        <file path="share/libtool/libltdl/libltdl/lt__strl.h" />
+        <file path="share/libtool/libltdl/libltdl/slist.h" />
+        <dir path="share/libtool/libltdl/loaders" />
+        <file path="share/libtool/libltdl/loaders/dld_link.c" />
+        <file path="share/libtool/libltdl/loaders/dlopen.c" />
+        <file path="share/libtool/libltdl/loaders/dyld.c" />
+        <file path="share/libtool/libltdl/loaders/loadlibrary.c" />
+        <file path="share/libtool/libltdl/loaders/load_add_on.c" />
+        <file path="share/libtool/libltdl/loaders/preopen.c" />
+        <file path="share/libtool/libltdl/loaders/shl_load.c" />
+        <file path="share/libtool/libltdl/ltdl.c" />
+        <file path="share/libtool/libltdl/ltdl.h" />
+        <file path="share/libtool/libltdl/lt_dlloader.c" />
+        <file path="share/libtool/libltdl/lt_error.c" />
+        <file path="share/libtool/libltdl/lt__alloc.c" />
+        <file path="share/libtool/libltdl/lt__dirent.c" />
+        <file path="share/libtool/libltdl/lt__strl.c" />
+        <file path="share/libtool/libltdl/Makefile.am" />
+        <file path="share/libtool/libltdl/Makefile.in" />
+        <file path="share/libtool/libltdl/Makefile.inc" />
+        <file path="share/libtool/libltdl/README" />
+        <file path="share/libtool/libltdl/slist.c" />
+        <dir path="share/aclocal" />
+        <file path="share/aclocal/argz.m4" />
+        <file path="share/aclocal/libtool.m4" />
+        <file path="share/aclocal/ltdl.m4" />
+        <file path="share/aclocal/ltoptions.m4" />
+        <file path="share/aclocal/ltsugar.m4" />
+        <file path="share/aclocal/ltversion.m4" />
+        <file path="share/aclocal/lt~obsolete.m4" />
+    </manifest>
+</package>

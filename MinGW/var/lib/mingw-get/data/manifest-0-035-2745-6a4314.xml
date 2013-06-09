@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-035-2745-6a4314">
+    <release tarname="xz-5.0.3-1-msys-1.0.17-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/lzcat.exe" />
+        <file path="bin/lzcmp" />
+        <file path="bin/lzdiff" />
+        <file path="bin/lzegrep" />
+        <file path="bin/lzfgrep" />
+        <file path="bin/lzgrep" />
+        <file path="bin/lzless" />
+        <file path="bin/lzma.exe" />
+        <file path="bin/lzmadec.exe" />
+        <file path="bin/lzmainfo.exe" />
+        <file path="bin/lzmore" />
+        <file path="bin/unlzma.exe" />
+        <file path="bin/unxz.exe" />
+        <file path="bin/xz.exe" />
+        <file path="bin/xzcat.exe" />
+        <file path="bin/xzcmp" />
+        <file path="bin/xzdec.exe" />
+        <file path="bin/xzdiff" />
+        <file path="bin/xzegrep" />
+        <file path="bin/xzfgrep" />
+        <file path="bin/xzgrep" />
+        <file path="bin/xzless" />
+        <file path="bin/xzmore" />
+    </manifest>
+</package>

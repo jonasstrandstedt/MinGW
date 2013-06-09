@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-95a2-f26ef1">
+    <release tarname="libiconv-1.14-2-mingw32-dll-2.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="bin/libiconv-2.dll" />
+    </manifest>
+</package>

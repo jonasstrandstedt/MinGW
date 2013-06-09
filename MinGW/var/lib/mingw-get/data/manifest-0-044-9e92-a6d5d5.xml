@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-044-9e92-a6d5d5">
+    <release tarname="libguile-1.8.7-2-msys-1.0.15-dll-17.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-guile-17.dll" />
+        <file path="bin/msys-guile-srfi-srfi-1-v-3-3.dll" />
+        <file path="bin/msys-guile-srfi-srfi-13-14-v-3-3.dll" />
+        <file path="bin/msys-guile-srfi-srfi-4-v-3-3.dll" />
+        <file path="bin/msys-guile-srfi-srfi-60-v-2-2.dll" />
+        <file path="bin/msys-guilereadline-v-17-17.dll" />
+    </manifest>
+</package>

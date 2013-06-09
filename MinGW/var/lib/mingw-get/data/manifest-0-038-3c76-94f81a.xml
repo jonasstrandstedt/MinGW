@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-3c76-94f81a">
+    <release tarname="gzip-1.3.12-2-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/gunzip" />
+        <file path="bin/gzexe" />
+        <file path="bin/gzip.exe" />
+        <file path="bin/uncompress" />
+        <file path="bin/zcat" />
+        <file path="bin/zcmp" />
+        <file path="bin/zdiff" />
+        <file path="bin/zegrep" />
+        <file path="bin/zfgrep" />
+        <file path="bin/zforce" />
+        <file path="bin/zgrep" />
+        <file path="bin/zless" />
+        <file path="bin/zmore" />
+        <file path="bin/znew" />
+    </manifest>
+</package>

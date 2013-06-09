@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-039-fbc2-e941a7">
+    <release tarname="gettext-0.18.1.1-2-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="bin/gettext.exe" />
+        <file path="bin/ngettext.exe" />
+        <file path="bin/envsubst.exe" />
+        <file path="bin/gettext.sh" />
+        <file path="share/locale/be/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/bg/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/ca/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/cs/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/da/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/de/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/el/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/en@boldquot/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/en@quot/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/eo/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/es/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/et/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/fi/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/fr/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/ga/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/gl/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/id/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/it/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/ja/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/ko/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/nb/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/nl/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/nn/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/pl/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/pt/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/pt_BR/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/ro/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/ru/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/sk/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/sl/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/sr/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/sv/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/tr/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/uk/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/vi/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/zh_CN/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/zh_HK/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/zh_TW/LC_MESSAGES/gettext-runtime.mo" />
+        <file path="share/locale/locale.alias" />
+        <file path="lib/charset.alias" />
+    </manifest>
+</package>

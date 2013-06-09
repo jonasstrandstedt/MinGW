@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-054-a198-94876e">
+    <release tarname="diffutils-2.8.7.20071206cvs-3-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/cmp.exe" />
+        <file path="bin/diff.exe" />
+        <file path="bin/diff3.exe" />
+        <file path="bin/sdiff.exe" />
+    </manifest>
+</package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-052-9788-afe609">
+    <release tarname="libtermcap-0.20050421_1-2-msys-1.0.13-dll-0.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-termcap-0.dll" />
+    </manifest>
+</package>

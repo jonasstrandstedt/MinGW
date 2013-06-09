@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-034-fbca-8309c6">
+    <release tarname="autoconf-10-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/autoconf" />
+        <file path="bin/autoheader" />
+        <file path="bin/autom4te" />
+        <file path="bin/autoreconf" />
+        <file path="bin/autoscan" />
+        <file path="bin/autoupdate" />
+        <file path="bin/ifnames" />
+        <dir path="share" />
+        <dir path="share/autotools" />
+        <file path="share/autotools/ac-wrapper.sh" />
+        <dir path="share/doc" />
+        <dir path="share/doc/MinGW" />
+        <file path="share/doc/MinGW/autoconf.README.txt" />
+    </manifest>
+</package>

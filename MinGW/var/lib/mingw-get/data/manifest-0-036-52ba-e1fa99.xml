@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-036-52ba-e1fa99">
+    <release tarname="file-5.04-1-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/file.exe" />
+        <dir path="share/misc" />
+        <file path="share/misc/magic.mgc" />
+    </manifest>
+</package>

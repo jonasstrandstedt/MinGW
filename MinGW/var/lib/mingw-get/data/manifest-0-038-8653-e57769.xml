@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-038-8653-e57769">
+    <release tarname="bison-2.4.2-1-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/bison.exe" />
+        <file path="bin/yacc" />
+        <file path="lib/liby.a" />
+        <file path="share/aclocal/bison-i18n.m4" />
+        <file path="share/bison/README" />
+        <file path="share/bison/bison.m4" />
+        <file path="share/bison/c++-skel.m4" />
+        <file path="share/bison/c++.m4" />
+        <file path="share/bison/c-skel.m4" />
+        <file path="share/bison/c.m4" />
+        <file path="share/bison/glr.c" />
+        <file path="share/bison/glr.cc" />
+        <file path="share/bison/java-skel.m4" />
+        <file path="share/bison/java.m4" />
+        <file path="share/bison/lalr1.cc" />
+        <file path="share/bison/lalr1.java" />
+        <file path="share/bison/location.cc" />
+        <file path="share/bison/m4sugar/foreach.m4" />
+        <file path="share/bison/m4sugar/m4sugar.m4" />
+        <file path="share/bison/xslt/bison.xsl" />
+        <file path="share/bison/xslt/xml2dot.xsl" />
+        <file path="share/bison/xslt/xml2text.xsl" />
+        <file path="share/bison/xslt/xml2xhtml.xsl" />
+        <file path="share/bison/yacc.c" />
+    </manifest>
+</package>

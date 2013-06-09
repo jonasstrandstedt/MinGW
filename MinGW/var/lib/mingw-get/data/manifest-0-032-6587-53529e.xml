@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-032-6587-53529e">
+    <release tarname="gcc-4.7.2-1-mingw32-doc.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="share/doc/gcc/4.7.2/MAINTAINERS" />
+        <file path="share/doc/gcc/4.7.2/README" />
+        <dir path="share/man" />
+        <dir path="share/man/man1" />
+        <file path="share/man/man1/cpp.1" />
+        <file path="share/man/man1/g++.1" />
+        <file path="share/man/man1/gcc.1" />
+        <file path="share/man/man1/gcov.1" />
+        <file path="share/man/man1/gfortran.1" />
+        <dir path="share/man/man7" />
+        <file path="share/man/man7/fsf-funding.7" />
+        <file path="share/man/man7/gfdl.7" />
+        <file path="share/man/man7/gpl.7" />
+        <dir path="share/info" />
+        <file path="share/info/cpp.info" />
+        <file path="share/info/cppinternals.info" />
+        <file path="share/info/gcc.info" />
+        <file path="share/info/gccinstall.info" />
+        <file path="share/info/gccint.info" />
+        <file path="share/info/gfortran.info" />
+        <file path="share/info/gnat-style.info" />
+        <file path="share/info/gnat_rm.info" />
+        <file path="share/info/gnat_ugn.info" />
+        <file path="share/info/libgomp.info" />
+        <file path="share/info/libquadmath.info" />
+        <dir path="share/doc/MinGW" />
+        <file path="share/doc/MinGW/gcc-4.7.2-1-mingw32.RELEASE_NOTES.txt" />
+    </manifest>
+</package>

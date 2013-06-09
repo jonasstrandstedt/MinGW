@@ -1,0 +1,548 @@
+Update catalogue: package-list.xml
+Update catalogue: mingw32-package-list.xml
+Update catalogue: mingw32-autoconf.xml
+Update catalogue: mingw32-automake.xml
+Update catalogue: mingw32-basic-bsdtar.xml
+Update catalogue: mingw32-binutils.xml
+Update catalogue: mingw32-bzip2.xml
+Update catalogue: mingw32-dos2unix.xml
+Update catalogue: mingw32-expat.xml
+Update catalogue: mingw32-gcc3.xml
+Update catalogue: mingw32-gcc4.xml
+Update catalogue: mingw32-gcc-tools.xml
+Update catalogue: mingw32-gdb.xml
+Update catalogue: mingw32-gendef.xml
+Update catalogue: mingw32-gettext.xml
+Update catalogue: mingw32-gmp.xml
+Update catalogue: mingw32-libarchive.xml
+Update catalogue: mingw32-libiconv.xml
+Update catalogue: mingw32-libtool.xml
+Update catalogue: mingw32-lua.xml
+Update catalogue: mingw32-make.xml
+Update catalogue: mingw32-mingw-get.xml
+Update catalogue: mingw32-mingw-utils.xml
+Update catalogue: mingw32-mgwport.xml
+Update catalogue: mingw32-mpc.xml
+Update catalogue: mingw32-mpfr.xml
+Update catalogue: mingw32-pexports.xml
+Update catalogue: mingw32-popt.xml
+Update catalogue: mingw32-pthreads-w32.xml
+Update catalogue: mingw32-runtime.xml
+Update catalogue: mingw32-wsl-candidate.xml
+Update catalogue: mingw32-xz.xml
+Update catalogue: mingw32-zlib.xml
+Update catalogue: mingw32-libunistring.xml
+Update catalogue: mingw32-pdcurses.xml
+Update catalogue: mingw32-base.xml
+Update catalogue: mingw32-autotools.xml
+Update catalogue: msys-package-list.xml
+Update catalogue: msys-autoconf.xml
+Update catalogue: msys-autogen.xml
+Update catalogue: msys-automake.xml
+Update catalogue: msys-bash.xml
+Update catalogue: msys-binutils.xml
+Update catalogue: msys-bison.xml
+Update catalogue: msys-bzip2.xml
+Update catalogue: msys-console.xml
+Update catalogue: msys-core.xml
+Update catalogue: msys-coreutils.xml
+Update catalogue: msys-crypt.xml
+Update catalogue: msys-cvs.xml
+Update catalogue: msys-cygutils.xml
+Update catalogue: msys-dash.xml
+Update catalogue: msys-diffutils.xml
+Update catalogue: msys-diffstat.xml
+Update catalogue: msys-dos2unix.xml
+Update catalogue: msys-expat.xml
+Update catalogue: msys-file.xml
+Update catalogue: msys-findutils.xml
+Update catalogue: msys-flex.xml
+Update catalogue: msys-gawk.xml
+Update catalogue: msys-gcc.xml
+Update catalogue: msys-gdbm.xml
+Update catalogue: msys-gettext.xml
+Update catalogue: msys-gmp.xml
+Update catalogue: msys-grep.xml
+Update catalogue: msys-groff.xml
+Update catalogue: msys-guile.xml
+Update catalogue: msys-gzip.xml
+Update catalogue: msys-help2man.xml
+Update catalogue: msys-inetutils.xml
+Update catalogue: msys-less.xml
+Update catalogue: msys-libarchive.xml
+Update catalogue: msys-libiconv.xml
+Update catalogue: msys-libtool.xml
+Update catalogue: msys-libxml2.xml
+Update catalogue: msys-lndir.xml
+Update catalogue: msys-lpr-enhanced.xml
+Update catalogue: msys-m4.xml
+Update catalogue: msys-make.xml
+Update catalogue: msys-man.xml
+Update catalogue: msys-minires.xml
+Update catalogue: msys-mintty.xml
+Update catalogue: msys-mktemp.xml
+Update catalogue: msys-openssh.xml
+Update catalogue: msys-openssl.xml
+Update catalogue: msys-patch.xml
+Update catalogue: msys-perl.xml
+Update catalogue: msys-popt.xml
+Update catalogue: msys-rebase.xml
+Update catalogue: msys-regex.xml
+Update catalogue: msys-rsync.xml
+Update catalogue: msys-rxvt.xml
+Update catalogue: msys-sed.xml
+Update catalogue: msys-tar.xml
+Update catalogue: msys-termcap.xml
+Update catalogue: msys-texinfo.xml
+Update catalogue: msys-unzip.xml
+Update catalogue: msys-vim.xml
+Update catalogue: msys-w32api.xml
+Update catalogue: msys-wget.xml
+Update catalogue: msys-xz.xml
+Update catalogue: msys-zip.xml
+Update catalogue: msys-zlib.xml
+Update catalogue: msys-mksh.xml
+Update catalogue: msys-base.xml
+Update catalogue: mingw-developer-toolkit.xml
+Update catalogue: msys-system-builder.xml
+http://prdownloads.sourceforge.net/mingw/mingw-get-0.5-mingw32-beta-20120426-1-bin.tar.xz?download
+246.61 kB / 246.61 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/mingw-get-0.5-mingw32-beta-20120426-1-lic.tar.xz?download
+12.04 kB / 12.04 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/pkginfo-0.5-mingw32-beta-20120426-1-bin.tar.xz?download
+7.10 kB / 7.10 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/mingwrt-3.20-2-mingw32-dll.tar.lzma?download
+5.57 kB / 5.57 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libpthreadgc-2.9.0-mingw32-pre-20110507-2-dll-2.tar.lzma?download
+26.71 kB / 26.71 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libgmp-5.0.1-1-mingw32-dll-10.tar.lzma?download
+155.29 kB / 155.29 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libmpfr-2.4.1-1-mingw32-dll-1.tar.lzma?download
+108.53 kB / 108.53 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libintl-0.18.1.1-2-mingw32-dll-8.tar.lzma?download
+44.14 kB / 44.14 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/w32api-3.17-2-mingw32-dev.tar.lzma?download
+1.07 MB / 1.07 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/binutils-2.23.1-1-mingw32-bin.tar.lzma?download
+3.83 MB / 3.83 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/pthreads-w32-2.9.0-mingw32-pre-20110507-2-dev.tar.lzma?download
+21.05 kB / 21.05 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libmpc-0.8.1-1-mingw32-dll-2.tar.lzma?download
+23.58 kB / 23.58 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libgomp-4.7.2-1-mingw32-dll-1.tar.lzma?download
+20.01 kB / 20.01 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libssp-4.7.2-1-mingw32-dll-0.tar.lzma?download
+16.94 kB / 16.94 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libiconv-1.14-2-mingw32-dll-2.tar.lzma?download
+535.88 kB / 535.88 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libgcc-4.7.2-1-mingw32-dll-1.tar.lzma?download
+40.74 kB / 40.74 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/mingwrt-3.20-2-mingw32-dev.tar.lzma?download
+242.96 kB / 242.96 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libquadmath-4.7.2-1-mingw32-dll-0.tar.lzma?download
+156.45 kB / 156.45 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libgettextpo-0.18.1.1-2-mingw32-dll-0.tar.lzma?download
+512.61 kB / 512.61 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libexpat-2.0.1-1-mingw32-dll-1.tar.gz?download
+61.31 kB / 61.31 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gdb-7.5-1-mingw32-bin.tar.lzma?download
+1.35 MB / 1.35 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/make-3.82.90-2-mingw32-cvs-20120902-bin.tar.lzma?download
+94.58 kB / 94.58 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gcc-4.7.2-1-mingw32-lic.tar.lzma?download
+20.72 kB / 20.72 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libstdc++-4.7.2-1-mingw32-dll-6.tar.lzma?download
+202.75 kB / 202.75 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gcc-core-4.7.2-1-mingw32-bin.tar.lzma?download
+9.48 MB / 9.48 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gcc-4.7.2-1-mingw32-doc.tar.lzma?download
+1.42 MB / 1.42 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gcc-4.7.2-1-mingw32-lang.tar.lzma?download
+1.24 MB / 1.24 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gcc-c++-4.7.2-1-mingw32-bin.tar.lzma?download
+6.11 MB / 6.11 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/msysCORE-1.0.18-1-msys-1.0.18-lic.tar.lzma?download
+11.52 kB / 11.52 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/msysCORE-1.0.18-1-msys-1.0.18-doc.tar.lzma?download
+7.79 kB / 7.79 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libpopt-1.15-2-msys-1.0.13-dll-0.tar.lzma?download
+207.48 kB / 207.48 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libiconv-1.14-1-msys-1.0.17-dll-2.tar.lzma?download
+518.74 kB / 518.74 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libopenssl-1.0.0-1-msys-1.0.13-dll-100.tar.lzma?download
+654.91 kB / 654.91 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/liblzma-5.0.3-1-msys-1.0.17-dll-5.tar.lzma?download
+68.72 kB / 68.72 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libltdl-2.4-1-msys-1.0.15-dll-7.tar.lzma?download
+205.29 kB / 205.29 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libintl-0.18.1.1-1-msys-1.0.17-dll-8.tar.lzma?download
+22.11 kB / 22.11 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/make-3.81-3-msys-1.0.13-bin.tar.lzma?download
+76.84 kB / 76.84 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/less-436-2-msys-1.0.13-bin.tar.lzma?download
+184.85 kB / 184.85 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/texinfo-4.13a-2-msys-1.0.13-bin.tar.lzma?download
+205.63 kB / 205.63 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/tar-1.23-1-msys-1.0.13-bin.tar.lzma?download
+136.05 kB / 136.05 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/sed-4.2.1-2-msys-1.0.13-bin.tar.lzma?download
+60.97 kB / 60.97 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/xz-5.0.3-1-msys-1.0.17-bin.tar.lzma?download
+35.74 kB / 35.74 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gzip-1.3.12-2-msys-1.0.13-bin.tar.lzma?download
+36.39 kB / 36.39 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/grep-2.5.4-2-msys-1.0.13-bin.tar.lzma?download
+60.93 kB / 60.93 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libmagic-5.04-1-msys-1.0.13-dll-1.tar.lzma?download
+241.70 kB / 241.70 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/file-5.04-1-msys-1.0.13-bin.tar.lzma?download
+103.25 kB / 103.25 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/findutils-4.4.2-2-msys-1.0.13-bin.tar.lzma?download
+123.02 kB / 123.02 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/diffutils-2.8.7.20071206cvs-3-msys-1.0.13-bin.tar.lzma?download
+92.09 kB / 92.09 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gawk-3.1.7-2-msys-1.0.13-bin.tar.lzma?download
+150.93 kB / 150.93 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/dos2unix-6.0.3-1-msys-1.0.17-bin.tar.lzma?download
+18.73 kB / 18.73 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/vim-7.3-2-msys-1.0.16-bin.tar.lzma?download
+2.92 MB / 2.92 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/rsync-3.0.8-1-msys-1.0.17-bin.tar.lzma?download
+163.12 kB / 163.12 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/perl-5.8.8-1-msys-1.0.17-bin.tar.lzma?download
+6.65 MB / 6.65 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libminires-1.02_1-2-msys-1.0.13-dll.tar.lzma?download
+11.40 kB / 11.40 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/patch-2.6.1-1-msys-1.0.13-bin.tar.lzma?download
+50.12 kB / 50.12 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/openssl-1.0.0-1-msys-1.0.13-bin.tar.lzma?download
+315.05 kB / 315.05 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/openssh-5.4p1-1-msys-1.0.13-bin.tar.lzma?download
+274.71 kB / 274.71 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/mktemp-1.6-2-msys-1.0.13-bin.tar.lzma?download
+5.55 kB / 5.55 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/m4-1.4.16-2-msys-1.0.17-bin.tar.lzma?download
+102.32 kB / 102.32 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/coreutils-5.97-3-msys-1.0.13-bin.tar.lzma?download
+288.85 kB / 288.85 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/zlib-1.2.7-1-msys-1.0.17-dll.tar.lzma?download
+39.76 kB / 39.76 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/msysCORE-1.0.18-1-msys-1.0.18-bin.tar.lzma?download
+596.49 kB / 596.49 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/termcap-0.20050421_1-2-msys-1.0.13-bin.tar.lzma?download
+19.57 kB / 19.57 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libguile-1.8.7-2-msys-1.0.15-rtm.tar.lzma?download
+281.16 kB / 281.16 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libregex-1.20090805-2-msys-1.0.13-dll-1.tar.lzma?download
+35.32 kB / 35.32 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libtermcap-0.20050421_1-2-msys-1.0.13-dll-0.tar.lzma?download
+14.34 kB / 14.34 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libxml2-2.7.6-1-msys-1.0.13-dll-2.tar.lzma?download
+401.96 kB / 401.96 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libexpat-2.0.1-1-msys-1.0.13-dll-1.tar.lzma?download
+49.03 kB / 49.03 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libgmp-5.0.1-1-msys-1.0.13-dll-10.tar.lzma?download
+347.18 kB / 347.18 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libcrypt-1.1_1-3-msys-1.0.13-dll-0.tar.lzma?download
+4.04 kB / 4.04 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libgdbm-1.8.3-3-msys-1.0.13-dll-3.tar.lzma?download
+12.70 kB / 12.70 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libbz2-1.0.6-1-msys-1.0.17-dll-1.tar.lzma?download
+25.98 kB / 25.98 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/msysCORE-1.0.18-1-msys-1.0.18-ext.tar.lzma?download
+7.68 kB / 7.68 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/bzip2-1.0.6-1-msys-1.0.17-bin.tar.lzma?download
+18.26 kB / 18.26 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/bash-3.1.17-4-msys-1.0.16-bin.tar.lzma?download
+231.70 kB / 231.70 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libopts-5.10.1-1-msys-1.0.15-dll-25.tar.lzma?download
+36.66 kB / 36.66 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libguile-1.8.7-2-msys-1.0.15-dll-17.tar.lzma?download
+242.19 kB / 242.19 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libarchive-2.8.3-1-msys-1.0.13-dll-2.tar.lzma?download
+300.20 kB / 300.20 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/lndir-1.0.1-2-msys-1.0.13-bin.tar.lzma?download
+4.58 kB / 4.58 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/inetutils-1.7-1-msys-1.0.13-bin.tar.lzma?download
+112.49 kB / 112.49 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/guile-1.8.7-2-msys-1.0.15-bin.tar.lzma?download
+4.58 kB / 4.58 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/flex-2.5.35-2-msys-1.0.13-bin.tar.lzma?download
+93.51 kB / 93.51 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/diffstat-1.54-1-msys-1.0.17-bin.tar.lzma?download
+14.49 kB / 14.49 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/cvs-1.12.13-2-msys-1.0.13-bin.tar.lzma?download
+409.05 kB / 409.05 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/coreutils-5.97-3-msys-1.0.13-ext.tar.lzma?download
+260.42 kB / 260.42 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/bsdcpio-2.8.3-1-msys-1.0.13-bin.tar.lzma?download
+11.77 kB / 11.77 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/bsdtar-2.8.3-1-msys-1.0.13-bin.tar.lzma?download
+23.09 kB / 23.09 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/bison-2.4.2-1-msys-1.0.13-bin.tar.lzma?download
+187.10 kB / 187.10 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/autogen-5.10.1-1-msys-1.0.15-bin.tar.lzma?download
+239.43 kB / 239.43 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libltdl-2.4-1-mingw32-dll-7.tar.lzma?download
+19.84 kB / 19.84 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libiconv-1.14-2-mingw32-dev.tar.lzma?download
+628.31 kB / 628.31 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libiconv-1.14-2-mingw32-bin.tar.lzma?download
+46.90 kB / 46.90 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gettext-0.18.1.1-2-mingw32-dev.tar.lzma?download
+1.55 MB / 1.55 MB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/gettext-0.18.1.1-2-mingw32-bin.tar.lzma?download
+74.55 kB / 74.55 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libltdl-2.4-1-mingw32-dev.tar.lzma?download
+21.45 kB / 21.45 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/libtool-2.4-1-mingw32-bin.tar.lzma?download
+255.84 kB / 255.84 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.11-1.11.1-1-mingw32-bin.tar.lzma?download
+290.64 kB / 290.64 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.10-1.10.2-1-mingw32-bin.tar.lzma?download
+274.72 kB / 274.72 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.9-1.9.6-3-mingw32-bin.tar.lzma?download
+249.42 kB / 249.42 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.8-1.8.5-1-mingw32-bin.tar.lzma?download
+240.97 kB / 240.97 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.7-1.7.9-1-mingw32-bin.tar.lzma?download
+215.33 kB / 215.33 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.6-1.6.3-1-mingw32-bin.tar.lzma?download
+190.35 kB / 190.35 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.5-1.5-1-mingw32-bin.tar.lzma?download
+177.09 kB / 177.09 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake1.4-1.4p6-1-mingw32-bin.tar.lzma?download
+152.10 kB / 152.10 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/automake-4-1-mingw32-bin.tar.lzma?download
+3.00 kB / 3.00 kB       |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/autoconf2.5-2.68-1-mingw32-bin.tar.lzma?download
+263.68 kB / 263.68 kB   |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/autoconf2.1-2.13-4-mingw32-bin.tar.lzma?download
+55.91 kB / 55.91 kB     |================================================| 100%
+http://prdownloads.sourceforge.net/mingw/autoconf-10-1-mingw32-bin.tar.lzma?download
+3.62 kB / 3.62 kB       |================================================| 100%
+install: mingw-get-0.5-mingw32-beta-20120426-1-bin.tar.xz
+ installing mingw-get-0.5-mingw32-beta-20120426-1-bin.tar.xz
+ running post-install hooks for mingw-get-bin
+install: mingw-get-0.5-mingw32-beta-20120426-1-lic.tar.xz
+ installing mingw-get-0.5-mingw32-beta-20120426-1-lic.tar.xz
+install: pkginfo-0.5-mingw32-beta-20120426-1-bin.tar.xz
+ installing pkginfo-0.5-mingw32-beta-20120426-1-bin.tar.xz
+install: mingwrt-3.20-2-mingw32-dll.tar.lzma
+ installing mingwrt-3.20-2-mingw32-dll.tar.lzma
+install: libpthreadgc-2.9.0-mingw32-pre-20110507-2-dll-2.tar.lzma
+ installing libpthreadgc-2.9.0-mingw32-pre-20110507-2-dll-2.tar.lzma
+install: libgmp-5.0.1-1-mingw32-dll-10.tar.lzma
+ installing libgmp-5.0.1-1-mingw32-dll-10.tar.lzma
+install: libmpfr-2.4.1-1-mingw32-dll-1.tar.lzma
+ installing libmpfr-2.4.1-1-mingw32-dll-1.tar.lzma
+install: libintl-0.18.1.1-2-mingw32-dll-8.tar.lzma
+ installing libintl-0.18.1.1-2-mingw32-dll-8.tar.lzma
+install: w32api-3.17-2-mingw32-dev.tar.lzma
+ installing w32api-3.17-2-mingw32-dev.tar.lzma
+install: binutils-2.23.1-1-mingw32-bin.tar.lzma
+ installing binutils-2.23.1-1-mingw32-bin.tar.lzma
+install: pthreads-w32-2.9.0-mingw32-pre-20110507-2-dev.tar.lzma
+ installing pthreads-w32-2.9.0-mingw32-pre-20110507-2-dev.tar.lzma
+install: libmpc-0.8.1-1-mingw32-dll-2.tar.lzma
+ installing libmpc-0.8.1-1-mingw32-dll-2.tar.lzma
+install: libgomp-4.7.2-1-mingw32-dll-1.tar.lzma
+ installing libgomp-4.7.2-1-mingw32-dll-1.tar.lzma
+install: libssp-4.7.2-1-mingw32-dll-0.tar.lzma
+ installing libssp-4.7.2-1-mingw32-dll-0.tar.lzma
+install: libiconv-1.14-2-mingw32-dll-2.tar.lzma
+ installing libiconv-1.14-2-mingw32-dll-2.tar.lzma
+install: libgcc-4.7.2-1-mingw32-dll-1.tar.lzma
+ installing libgcc-4.7.2-1-mingw32-dll-1.tar.lzma
+install: mingwrt-3.20-2-mingw32-dev.tar.lzma
+ installing mingwrt-3.20-2-mingw32-dev.tar.lzma
+install: libquadmath-4.7.2-1-mingw32-dll-0.tar.lzma
+ installing libquadmath-4.7.2-1-mingw32-dll-0.tar.lzma
+install: libgettextpo-0.18.1.1-2-mingw32-dll-0.tar.lzma
+ installing libgettextpo-0.18.1.1-2-mingw32-dll-0.tar.lzma
+install: libexpat-2.0.1-1-mingw32-dll-1.tar.gz
+ installing libexpat-2.0.1-1-mingw32-dll-1.tar.gz
+install: gdb-7.5-1-mingw32-bin.tar.lzma
+ installing gdb-7.5-1-mingw32-bin.tar.lzma
+install: make-3.82.90-2-mingw32-cvs-20120902-bin.tar.lzma
+ installing make-3.82.90-2-mingw32-cvs-20120902-bin.tar.lzma
+install: gcc-4.7.2-1-mingw32-lic.tar.lzma
+ installing gcc-4.7.2-1-mingw32-lic.tar.lzma
+install: libstdc++-4.7.2-1-mingw32-dll-6.tar.lzma
+ installing libstdc++-4.7.2-1-mingw32-dll-6.tar.lzma
+install: gcc-core-4.7.2-1-mingw32-bin.tar.lzma
+ installing gcc-core-4.7.2-1-mingw32-bin.tar.lzma
+install: mingw32-base-2011060500-mingw32-bin.meta
+ installing mingw32-base-2011060500-mingw32-bin.meta
+install: gcc-4.7.2-1-mingw32-doc.tar.lzma
+ installing gcc-4.7.2-1-mingw32-doc.tar.lzma
+install: gcc-4.7.2-1-mingw32-lang.tar.lzma
+ installing gcc-4.7.2-1-mingw32-lang.tar.lzma
+install: gcc-c++-4.7.2-1-mingw32-bin.tar.lzma
+ installing gcc-c++-4.7.2-1-mingw32-bin.tar.lzma
+install: msysCORE-1.0.18-1-msys-1.0.18-lic.tar.lzma
+ installing msysCORE-1.0.18-1-msys-1.0.18-lic.tar.lzma
+install: msysCORE-1.0.18-1-msys-1.0.18-doc.tar.lzma
+ installing msysCORE-1.0.18-1-msys-1.0.18-doc.tar.lzma
+install: libpopt-1.15-2-msys-1.0.13-dll-0.tar.lzma
+ installing libpopt-1.15-2-msys-1.0.13-dll-0.tar.lzma
+install: libiconv-1.14-1-msys-1.0.17-dll-2.tar.lzma
+ installing libiconv-1.14-1-msys-1.0.17-dll-2.tar.lzma
+install: libopenssl-1.0.0-1-msys-1.0.13-dll-100.tar.lzma
+ installing libopenssl-1.0.0-1-msys-1.0.13-dll-100.tar.lzma
+install: liblzma-5.0.3-1-msys-1.0.17-dll-5.tar.lzma
+ installing liblzma-5.0.3-1-msys-1.0.17-dll-5.tar.lzma
+install: libltdl-2.4-1-msys-1.0.15-dll-7.tar.lzma
+ installing libltdl-2.4-1-msys-1.0.15-dll-7.tar.lzma
+install: libintl-0.18.1.1-1-msys-1.0.17-dll-8.tar.lzma
+ installing libintl-0.18.1.1-1-msys-1.0.17-dll-8.tar.lzma
+install: make-3.81-3-msys-1.0.13-bin.tar.lzma
+ installing make-3.81-3-msys-1.0.13-bin.tar.lzma
+install: less-436-2-msys-1.0.13-bin.tar.lzma
+ installing less-436-2-msys-1.0.13-bin.tar.lzma
+install: texinfo-4.13a-2-msys-1.0.13-bin.tar.lzma
+ installing texinfo-4.13a-2-msys-1.0.13-bin.tar.lzma
+install: tar-1.23-1-msys-1.0.13-bin.tar.lzma
+ installing tar-1.23-1-msys-1.0.13-bin.tar.lzma
+install: sed-4.2.1-2-msys-1.0.13-bin.tar.lzma
+ installing sed-4.2.1-2-msys-1.0.13-bin.tar.lzma
+install: xz-5.0.3-1-msys-1.0.17-bin.tar.lzma
+ installing xz-5.0.3-1-msys-1.0.17-bin.tar.lzma
+install: gzip-1.3.12-2-msys-1.0.13-bin.tar.lzma
+ installing gzip-1.3.12-2-msys-1.0.13-bin.tar.lzma
+install: grep-2.5.4-2-msys-1.0.13-bin.tar.lzma
+ installing grep-2.5.4-2-msys-1.0.13-bin.tar.lzma
+install: libmagic-5.04-1-msys-1.0.13-dll-1.tar.lzma
+ installing libmagic-5.04-1-msys-1.0.13-dll-1.tar.lzma
+install: file-5.04-1-msys-1.0.13-bin.tar.lzma
+ installing file-5.04-1-msys-1.0.13-bin.tar.lzma
+install: findutils-4.4.2-2-msys-1.0.13-bin.tar.lzma
+ installing findutils-4.4.2-2-msys-1.0.13-bin.tar.lzma
+install: diffutils-2.8.7.20071206cvs-3-msys-1.0.13-bin.tar.lzma
+ installing diffutils-2.8.7.20071206cvs-3-msys-1.0.13-bin.tar.lzma
+install: gawk-3.1.7-2-msys-1.0.13-bin.tar.lzma
+ installing gawk-3.1.7-2-msys-1.0.13-bin.tar.lzma
+install: dos2unix-6.0.3-1-msys-1.0.17-bin.tar.lzma
+ installing dos2unix-6.0.3-1-msys-1.0.17-bin.tar.lzma
+install: vim-7.3-2-msys-1.0.16-bin.tar.lzma
+ installing vim-7.3-2-msys-1.0.16-bin.tar.lzma
+install: rsync-3.0.8-1-msys-1.0.17-bin.tar.lzma
+ installing rsync-3.0.8-1-msys-1.0.17-bin.tar.lzma
+install: perl-5.8.8-1-msys-1.0.17-bin.tar.lzma
+ installing perl-5.8.8-1-msys-1.0.17-bin.tar.lzma
+install: libminires-1.02_1-2-msys-1.0.13-dll.tar.lzma
+ installing libminires-1.02_1-2-msys-1.0.13-dll.tar.lzma
+install: patch-2.6.1-1-msys-1.0.13-bin.tar.lzma
+ installing patch-2.6.1-1-msys-1.0.13-bin.tar.lzma
+install: openssl-1.0.0-1-msys-1.0.13-bin.tar.lzma
+ installing openssl-1.0.0-1-msys-1.0.13-bin.tar.lzma
+install: openssh-5.4p1-1-msys-1.0.13-bin.tar.lzma
+ installing openssh-5.4p1-1-msys-1.0.13-bin.tar.lzma
+install: mktemp-1.6-2-msys-1.0.13-bin.tar.lzma
+ installing mktemp-1.6-2-msys-1.0.13-bin.tar.lzma
+install: m4-1.4.16-2-msys-1.0.17-bin.tar.lzma
+ installing m4-1.4.16-2-msys-1.0.17-bin.tar.lzma
+install: coreutils-5.97-3-msys-1.0.13-bin.tar.lzma
+ installing coreutils-5.97-3-msys-1.0.13-bin.tar.lzma
+install: zlib-1.2.7-1-msys-1.0.17-dll.tar.lzma
+ installing zlib-1.2.7-1-msys-1.0.17-dll.tar.lzma
+install: msysCORE-1.0.18-1-msys-1.0.18-bin.tar.lzma
+ installing msysCORE-1.0.18-1-msys-1.0.18-bin.tar.lzma
+install: termcap-0.20050421_1-2-msys-1.0.13-bin.tar.lzma
+ installing termcap-0.20050421_1-2-msys-1.0.13-bin.tar.lzma
+install: libguile-1.8.7-2-msys-1.0.15-rtm.tar.lzma
+ installing libguile-1.8.7-2-msys-1.0.15-rtm.tar.lzma
+install: libregex-1.20090805-2-msys-1.0.13-dll-1.tar.lzma
+ installing libregex-1.20090805-2-msys-1.0.13-dll-1.tar.lzma
+install: libtermcap-0.20050421_1-2-msys-1.0.13-dll-0.tar.lzma
+ installing libtermcap-0.20050421_1-2-msys-1.0.13-dll-0.tar.lzma
+install: libxml2-2.7.6-1-msys-1.0.13-dll-2.tar.lzma
+ installing libxml2-2.7.6-1-msys-1.0.13-dll-2.tar.lzma
+install: libexpat-2.0.1-1-msys-1.0.13-dll-1.tar.lzma
+ installing libexpat-2.0.1-1-msys-1.0.13-dll-1.tar.lzma
+install: libgmp-5.0.1-1-msys-1.0.13-dll-10.tar.lzma
+ installing libgmp-5.0.1-1-msys-1.0.13-dll-10.tar.lzma
+install: libcrypt-1.1_1-3-msys-1.0.13-dll-0.tar.lzma
+ installing libcrypt-1.1_1-3-msys-1.0.13-dll-0.tar.lzma
+install: libgdbm-1.8.3-3-msys-1.0.13-dll-3.tar.lzma
+ installing libgdbm-1.8.3-3-msys-1.0.13-dll-3.tar.lzma
+install: libbz2-1.0.6-1-msys-1.0.17-dll-1.tar.lzma
+ installing libbz2-1.0.6-1-msys-1.0.17-dll-1.tar.lzma
+install: msysCORE-1.0.18-1-msys-1.0.18-ext.tar.lzma
+ installing msysCORE-1.0.18-1-msys-1.0.18-ext.tar.lzma
+install: bzip2-1.0.6-1-msys-1.0.17-bin.tar.lzma
+ installing bzip2-1.0.6-1-msys-1.0.17-bin.tar.lzma
+install: bash-3.1.17-4-msys-1.0.16-bin.tar.lzma
+ installing bash-3.1.17-4-msys-1.0.16-bin.tar.lzma
+install: libopts-5.10.1-1-msys-1.0.15-dll-25.tar.lzma
+ installing libopts-5.10.1-1-msys-1.0.15-dll-25.tar.lzma
+install: libguile-1.8.7-2-msys-1.0.15-dll-17.tar.lzma
+ installing libguile-1.8.7-2-msys-1.0.15-dll-17.tar.lzma
+install: libarchive-2.8.3-1-msys-1.0.13-dll-2.tar.lzma
+ installing libarchive-2.8.3-1-msys-1.0.13-dll-2.tar.lzma
+install: lndir-1.0.1-2-msys-1.0.13-bin.tar.lzma
+ installing lndir-1.0.1-2-msys-1.0.13-bin.tar.lzma
+install: inetutils-1.7-1-msys-1.0.13-bin.tar.lzma
+ installing inetutils-1.7-1-msys-1.0.13-bin.tar.lzma
+install: guile-1.8.7-2-msys-1.0.15-bin.tar.lzma
+ installing guile-1.8.7-2-msys-1.0.15-bin.tar.lzma
+install: flex-2.5.35-2-msys-1.0.13-bin.tar.lzma
+ installing flex-2.5.35-2-msys-1.0.13-bin.tar.lzma
+install: diffstat-1.54-1-msys-1.0.17-bin.tar.lzma
+ installing diffstat-1.54-1-msys-1.0.17-bin.tar.lzma
+install: cvs-1.12.13-2-msys-1.0.13-bin.tar.lzma
+ installing cvs-1.12.13-2-msys-1.0.13-bin.tar.lzma
+install: coreutils-5.97-3-msys-1.0.13-ext.tar.lzma
+ installing coreutils-5.97-3-msys-1.0.13-ext.tar.lzma
+install: bsdcpio-2.8.3-1-msys-1.0.13-bin.tar.lzma
+ installing bsdcpio-2.8.3-1-msys-1.0.13-bin.tar.lzma
+install: bsdtar-2.8.3-1-msys-1.0.13-bin.tar.lzma
+ installing bsdtar-2.8.3-1-msys-1.0.13-bin.tar.lzma
+install: bison-2.4.2-1-msys-1.0.13-bin.tar.lzma
+ installing bison-2.4.2-1-msys-1.0.13-bin.tar.lzma
+install: autogen-5.10.1-1-msys-1.0.15-bin.tar.lzma
+ installing autogen-5.10.1-1-msys-1.0.15-bin.tar.lzma
+install: msys-base-2012040200-msys-bin.meta
+ installing msys-base-2012040200-msys-bin.meta
+install: libltdl-2.4-1-mingw32-dll-7.tar.lzma
+ installing libltdl-2.4-1-mingw32-dll-7.tar.lzma
+install: libiconv-1.14-2-mingw32-dev.tar.lzma
+ installing libiconv-1.14-2-mingw32-dev.tar.lzma
+install: libiconv-1.14-2-mingw32-bin.tar.lzma
+ installing libiconv-1.14-2-mingw32-bin.tar.lzma
+install: gettext-0.18.1.1-2-mingw32-dev.tar.lzma
+ installing gettext-0.18.1.1-2-mingw32-dev.tar.lzma
+install: gettext-0.18.1.1-2-mingw32-bin.tar.lzma
+ installing gettext-0.18.1.1-2-mingw32-bin.tar.lzma
+install: libltdl-2.4-1-mingw32-dev.tar.lzma
+ installing libltdl-2.4-1-mingw32-dev.tar.lzma
+install: libtool-2.4-1-mingw32-bin.tar.lzma
+ installing libtool-2.4-1-mingw32-bin.tar.lzma
+install: automake1.11-1.11.1-1-mingw32-bin.tar.lzma
+ installing automake1.11-1.11.1-1-mingw32-bin.tar.lzma
+install: automake1.10-1.10.2-1-mingw32-bin.tar.lzma
+ installing automake1.10-1.10.2-1-mingw32-bin.tar.lzma
+install: automake1.9-1.9.6-3-mingw32-bin.tar.lzma
+ installing automake1.9-1.9.6-3-mingw32-bin.tar.lzma
+install: automake1.8-1.8.5-1-mingw32-bin.tar.lzma
+ installing automake1.8-1.8.5-1-mingw32-bin.tar.lzma
+install: automake1.7-1.7.9-1-mingw32-bin.tar.lzma
+ installing automake1.7-1.7.9-1-mingw32-bin.tar.lzma
+install: automake1.6-1.6.3-1-mingw32-bin.tar.lzma
+ installing automake1.6-1.6.3-1-mingw32-bin.tar.lzma
+install: automake1.5-1.5-1-mingw32-bin.tar.lzma
+ installing automake1.5-1.5-1-mingw32-bin.tar.lzma
+install: automake1.4-1.4p6-1-mingw32-bin.tar.lzma
+ installing automake1.4-1.4p6-1-mingw32-bin.tar.lzma
+install: automake-4-1-mingw32-bin.tar.lzma
+ installing automake-4-1-mingw32-bin.tar.lzma
+install: autoconf2.5-2.68-1-mingw32-bin.tar.lzma
+ installing autoconf2.5-2.68-1-mingw32-bin.tar.lzma
+install: autoconf2.1-2.13-4-mingw32-bin.tar.lzma
+ installing autoconf2.1-2.13-4-mingw32-bin.tar.lzma
+install: autoconf-10-1-mingw32-bin.tar.lzma
+ installing autoconf-10-1-mingw32-bin.tar.lzma
+install: mingw32-autotools-2010090601-mingw32-bin.meta
+ installing mingw32-autotools-2010090601-mingw32-bin.meta
+install: mingw-developer-toolkit-2011082600-msys-bin.meta
+ installing mingw-developer-toolkit-2011082600-msys-bin.meta

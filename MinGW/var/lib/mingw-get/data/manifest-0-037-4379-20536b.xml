@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-037-4379-20536b">
+    <release tarname="gawk-3.1.7-2-msys-1.0.13-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/awk.exe" />
+        <file path="bin/gawk-3.1.7.exe" />
+        <file path="bin/gawk.exe" />
+        <file path="bin/igawk" />
+        <file path="bin/pgawk-3.1.7.exe" />
+        <file path="bin/pgawk.exe" />
+        <dir path="share/awk" />
+        <file path="share/awk/assert.awk" />
+        <file path="share/awk/bits2str.awk" />
+        <file path="share/awk/cliff_rand.awk" />
+        <file path="share/awk/ctime.awk" />
+        <file path="share/awk/ftrans.awk" />
+        <file path="share/awk/getopt.awk" />
+        <file path="share/awk/gettime.awk" />
+        <file path="share/awk/group.awk" />
+        <file path="share/awk/join.awk" />
+        <file path="share/awk/libintl.awk" />
+        <file path="share/awk/nextfile.awk" />
+        <file path="share/awk/noassign.awk" />
+        <file path="share/awk/ord.awk" />
+        <file path="share/awk/passwd.awk" />
+        <file path="share/awk/readable.awk" />
+        <file path="share/awk/rewind.awk" />
+        <file path="share/awk/round.awk" />
+        <file path="share/awk/strtonum.awk" />
+        <file path="share/awk/zerofile.awk" />
+        <dir path="sbin" />
+        <dir path="sbin/awk" />
+        <file path="sbin/awk/grcat.exe" />
+        <file path="sbin/awk/pwcat.exe" />
+    </manifest>
+</package>

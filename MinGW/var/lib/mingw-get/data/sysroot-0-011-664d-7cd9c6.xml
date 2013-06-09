@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<sysroot id="sysroot-0-011-664d-7cd9c6" path="%R/msys/1.0">
+    <installed tarname="msysCORE-1.0.18-1-msys-1.0.18-lic.tar.lzma" />
+    <installed tarname="msysCORE-1.0.18-1-msys-1.0.18-doc.tar.lzma" />
+    <installed tarname="libpopt-1.15-2-msys-1.0.13-dll-0.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="libiconv-1.14-1-msys-1.0.17-dll-2.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libopenssl-1.0.0-1-msys-1.0.13-dll-100.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="liblzma-5.0.3-1-msys-1.0.17-dll-5.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libltdl-2.4-1-msys-1.0.15-dll-7.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libintl-0.18.1.1-1-msys-1.0.17-dll-8.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libiconv-1.14-1-msys-*-dll-2.tar" />
+    </installed>
+    <installed tarname="make-3.81-3-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="less-436-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libtermcap-*-msys-*-dll-0.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="texinfo-4.13a-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-diffutils-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-tar-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libtermcap-*-msys-*-dll-0.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="tar-1.23-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-bzip2-*-msys-*-bin.tar" />
+        <requires eq="msys-gzip-*-msys-*-bin.tar" />
+        <requires eq="msys-xz-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libiconv-*-msys-*-dll-2.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="sed-4.2.1-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="xz-5.0.3-1-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-diffutils-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-less-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-liblzma-%-msys-%-dll-5.tar" />
+    </installed>
+    <installed tarname="gzip-1.3.12-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-diffutils-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-less-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="grep-2.5.4-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="libmagic-5.04-1-msys-1.0.13-dll-1.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-zlib-*-msys-*-dll.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="file-5.04-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-libmagic-%-msys-%-dll-1.tar" />
+    </installed>
+    <installed tarname="findutils-4.4.2-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="diffutils-2.8.7.20071206cvs-3-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="gawk-3.1.7-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="dos2unix-6.0.3-1-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libiconv-*-msys-*-dll-2.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="vim-7.3-2-msys-1.0.16-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libtermcap-*-msys-*-dll-0.tar" />
+    </installed>
+    <installed tarname="rsync-3.0.8-1-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libiconv-*-msys-*-dll-2.tar" />
+        <requires eq="msys-libpopt-*-msys-*-dll-0.tar" />
+    </installed>
+    <installed tarname="perl-5.8.8-1-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-zlib-*-msys-*-dll.tar" />
+        <requires eq="msys-libbz2-*-msys-*-dll-1.tar" />
+        <requires eq="msys-libgdbm-*-msys-*-dll-3.tar" />
+        <requires eq="msys-libcrypt-*-msys-*-dll-0.tar" />
+        <requires eq="msys-libexpat-*-msys-*-dll-1.tar" />
+        <requires eq="msys-libxml2-*-msys-*-dll-2.tar" />
+    </installed>
+    <installed tarname="libminires-1.02_1-2-msys-1.0.13-dll.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="patch-2.6.1-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="openssl-1.0.0-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-libopenssl-%-msys-%-dll-100.tar" />
+    </installed>
+    <installed tarname="openssh-5.4p1-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libminires-*-msys-*-dll.tar" />
+        <requires eq="msys-libopenssl-*-msys-*-dll-100.tar" />
+        <requires eq="msys-zlib-*-msys-*-dll.tar" />
+    </installed>
+    <installed tarname="mktemp-1.6-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="m4-1.4.16-2-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="coreutils-5.97-3-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libiconv-*-msys-*-dll-2.tar" />
+        <requires eq="msys-libtermcap-*-msys-*-dll-0.tar" />
+    </installed>
+    <installed tarname="zlib-1.2.7-1-msys-1.0.17-dll.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="msysCORE-1.0.18-1-msys-1.0.18-bin.tar.lzma">
+        <requires eq="msys-core-%-msys-%-doc.tar" />
+        <requires eq="msys-core-%-msys-%-lic.tar" />
+    </installed>
+    <installed tarname="termcap-0.20050421_1-2-msys-1.0.13-bin.tar.lzma" />
+    <installed tarname="libguile-1.8.7-2-msys-1.0.15-rtm.tar.lzma" />
+    <installed tarname="libregex-1.20090805-2-msys-1.0.13-dll-1.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libtermcap-0.20050421_1-2-msys-1.0.13-dll-0.tar.lzma">
+        <requires eq="msys-termcap-%-msys-%-bin.tar" />
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libxml2-2.7.6-1-msys-1.0.13-dll-2.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-zlib-*-msys-*-dll.tar" />
+        <requires eq="msys-libiconv-*-msys-*-dll-2.tar" />
+    </installed>
+    <installed tarname="libexpat-2.0.1-1-msys-1.0.13-dll-1.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libgmp-5.0.1-1-msys-1.0.13-dll-10.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libcrypt-1.1_1-3-msys-1.0.13-dll-0.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libgdbm-1.8.3-3-msys-1.0.13-dll-3.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="libbz2-1.0.6-1-msys-1.0.17-dll-1.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="msysCORE-1.0.18-1-msys-1.0.18-ext.tar.lzma">
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-core-%-msys-%-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-gawk-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-sed-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="bzip2-1.0.6-1-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-diffutils-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-less-*-msys-*-bin.tar" />
+        <requires eq="msys-libbz2-%-msys-%-dll-1.tar" />
+    </installed>
+    <installed tarname="bash-3.1.17-4-msys-1.0.16-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-libtermcap-*-msys-*-dll-0.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="libopts-5.10.1-1-msys-1.0.15-dll-25.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="libguile-1.8.7-2-msys-1.0.15-dll-17.tar.lzma">
+        <requires eq="msys-libguile-%-msys-%-rtm.tar" />
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libcrypt-*-msys-*-dll-0.tar" />
+        <requires eq="msys-libgmp-*-msys-*-dll-10.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libltdl-*-msys-*-dll-7.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="libarchive-2.8.3-1-msys-1.0.13-dll-2.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libbz2-*-msys-*-dll-1.tar" />
+        <requires eq="msys-liblzma-*-msys-*-dll-1.tar" />
+        <requires eq="msys-libopenssl-*-msys-*-dll-100.tar" />
+        <requires eq="msys-libxml2-*-msys-*-dll-2.tar" />
+        <requires eq="msys-zlib-*-msys-*-dll.tar" />
+    </installed>
+    <installed tarname="lndir-1.0.1-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="inetutils-1.7-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="guile-1.8.7-2-msys-1.0.15-bin.tar.lzma">
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-gawk-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-sed-*-msys-*-bin.tar" />
+        <requires eq="msys-libguile-%-msys-%-dll-17.tar" />
+    </installed>
+    <installed tarname="flex-2.5.35-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-m4-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+    </installed>
+    <installed tarname="diffstat-1.54-1-msys-1.0.17-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="cvs-1.12.13-2-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+        <requires eq="msys-libcrypt-*-msys-*-dll-0.tar" />
+    </installed>
+    <installed tarname="coreutils-5.97-3-msys-1.0.13-ext.tar.lzma">
+        <requires eq="msys-coreutils-%-msys-%-bin.tar" />
+    </installed>
+    <installed tarname="bsdcpio-2.8.3-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-libarchive-%-msys-%-dll-2.tar" />
+    </installed>
+    <installed tarname="bsdtar-2.8.3-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-libarchive-%-msys-%-dll-2.tar" />
+    </installed>
+    <installed tarname="bison-2.4.2-1-msys-1.0.13-bin.tar.lzma">
+        <requires eq="msys-core-*-msys-*-bin.tar" />
+        <requires eq="msys-m4-*-msys-*-bin.tar" />
+        <requires eq="msys-libintl-*-msys-*-dll-8.tar" />
+    </installed>
+    <installed tarname="autogen-5.10.1-1-msys-1.0.15-bin.tar.lzma">
+        <requires eq="msys-libguile-*-msys-*-dll-17.tar" />
+        <requires eq="msys-libopts-%-msys-%-dll-25.tar" />
+        <requires eq="msys-libregex-*-msys-*-dll-1.tar" />
+        <requires eq="msys-libxml2-*-msys-*-dll-2.tar" />
+    </installed>
+    <installed tarname="msys-base-2012040200-msys-bin.meta">
+        <download tarname="none" />
+        <requires eq="msys-bash-*-msys-*-bin.tar" />
+        <requires eq="msys-bzip2-*-msys-*-bin.tar" />
+        <requires eq="msys-core-*-msys-*-ext.tar" />
+        <requires eq="msys-coreutils-*-msys-*-bin.tar" />
+        <requires eq="msys-dos2unix-*-msys-*-bin.tar" />
+        <requires eq="msys-diffutils-*-msys-*-bin.tar" />
+        <requires eq="msys-findutils-*-msys-*-bin.tar" />
+        <requires eq="msys-file-*-msys-*-bin.tar" />
+        <requires eq="msys-gawk-*-msys-*-bin.tar" />
+        <requires eq="msys-grep-*-msys-*-bin.tar" />
+        <requires eq="msys-gzip-*-msys-*-bin.tar" />
+        <requires eq="msys-less-*-msys-*-bin.tar" />
+        <requires eq="msys-make-*-msys-*-bin.tar" />
+        <requires eq="msys-sed-*-msys-*-bin.tar" />
+        <requires eq="msys-tar-*-msys-*-bin.tar" />
+        <requires eq="msys-texinfo-*-msys-*-bin.tar" />
+        <requires eq="msys-xz-*-msys-*-bin.tar" />
+    </installed>
+    <installed tarname="mingw-developer-toolkit-2011082600-msys-bin.meta">
+        <download tarname="none" />
+        <requires eq="mingw32-autotools-*-mingw32-bin.meta" />
+        <requires eq="msys-base-*-msys-*-bin.meta" />
+        <requires eq="msys-autogen-*-msys-*-bin.tar" />
+        <requires eq="msys-bison-*-msys-*-bin.tar" />
+        <requires eq="msys-bsdtar-*-msys-*-bin.tar" />
+        <requires eq="msys-bsdcpio-*-msys-*-bin.tar" />
+        <requires eq="msys-coreutils-*-msys-*-ext.tar" />
+        <requires eq="msys-cvs-*-msys-*-bin.tar" />
+        <requires eq="msys-diffstat-*-msys-*-bin.tar" />
+        <requires eq="msys-flex-*-msys-*-bin.tar" />
+        <requires eq="msys-guile-*-msys-*-bin.tar" />
+        <requires eq="msys-inetutils-*-msys-*-bin.tar" />
+        <requires eq="msys-lndir-*-msys-*-bin.tar" />
+        <requires eq="msys-m4-*-msys-*-bin.tar" />
+        <requires eq="msys-mktemp-*-msys-*-bin.tar" />
+        <requires eq="msys-openssh-*-msys-*-bin.tar" />
+        <requires eq="msys-openssl-*-msys-*-bin.tar" />
+        <requires eq="msys-patch-*-msys-*-bin.tar" />
+        <requires eq="msys-perl-*-msys-*-bin.tar" />
+        <requires eq="msys-rsync-*-msys-*-bin.tar" />
+        <requires eq="msys-vim-*-msys-*-bin.tar" />
+    </installed>
+</sysroot>

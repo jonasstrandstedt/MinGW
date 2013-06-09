@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-041-b8c4-b350fa">
+    <release tarname="libpopt-1.15-2-msys-1.0.13-dll-0.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-popt-0.dll" />
+    </manifest>
+</package>

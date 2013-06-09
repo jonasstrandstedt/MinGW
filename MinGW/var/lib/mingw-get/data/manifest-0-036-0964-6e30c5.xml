@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-036-0964-6e30c5">
+    <release tarname="libltdl-2.4-1-mingw32-dll-7.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <file path="bin/libltdl-7.dll" />
+    </manifest>
+</package>

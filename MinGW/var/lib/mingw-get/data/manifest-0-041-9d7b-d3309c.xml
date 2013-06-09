@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-041-9d7b-d3309c">
+    <release tarname="coreutils-5.97-3-msys-1.0.13-ext.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/[.exe" />
+        <file path="bin/chgrp.exe" />
+        <file path="bin/chown.exe" />
+        <file path="bin/chroot.exe" />
+        <file path="bin/cksum.exe" />
+        <file path="bin/csplit.exe" />
+        <file path="bin/dd.exe" />
+        <file path="bin/df.exe" />
+        <file path="bin/dir.exe" />
+        <file path="bin/dircolors.exe" />
+        <file path="bin/du.exe" />
+        <file path="bin/expand.exe" />
+        <file path="bin/factor.exe" />
+        <file path="bin/fmt.exe" />
+        <file path="bin/groups" />
+        <file path="bin/hostname.exe" />
+        <file path="bin/kill.exe" />
+        <file path="bin/link.exe" />
+        <file path="bin/logname.exe" />
+        <file path="bin/mkfifo.exe" />
+        <file path="bin/mknod.exe" />
+        <file path="bin/nice.exe" />
+        <file path="bin/nl.exe" />
+        <file path="bin/nohup.exe" />
+        <file path="bin/pathchk.exe" />
+        <file path="bin/pinky.exe" />
+        <file path="bin/pr.exe" />
+        <file path="bin/printenv.exe" />
+        <file path="bin/ptx.exe" />
+        <file path="bin/readlink.exe" />
+        <file path="bin/seq.exe" />
+        <file path="bin/sha1sum.exe" />
+        <file path="bin/shred.exe" />
+        <file path="bin/stat.exe" />
+        <file path="bin/su.exe" />
+        <file path="bin/sum.exe" />
+        <file path="bin/sync.exe" />
+        <file path="bin/tac.exe" />
+        <file path="bin/test.exe" />
+        <file path="bin/tsort.exe" />
+        <file path="bin/tty.exe" />
+        <file path="bin/unexpand.exe" />
+        <file path="bin/unlink.exe" />
+        <file path="bin/users.exe" />
+        <file path="bin/vdir.exe" />
+        <file path="bin/who.exe" />
+        <file path="bin/whoami.exe" />
+        <file path="bin/yes.exe" />
+    </manifest>
+</package>

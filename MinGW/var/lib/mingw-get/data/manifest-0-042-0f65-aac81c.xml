@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-042-0f65-aac81c">
+    <release tarname="msysCORE-1.0.18-1-msys-1.0.18-doc.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="share/doc/MSYS/MSYS_MISSION" />
+        <file path="share/doc/MSYS/MSYS_VS_CYGWIN" />
+        <file path="share/doc/MSYS/MSYS_WELCOME.rtf" />
+        <file path="share/doc/MSYS/README.rtf" />
+        <file path="share/doc/MSYS/msysCORE-1.0.18-1-msys-RELEASE_NOTES.txt" />
+    </manifest>
+</package>
